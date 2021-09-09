@@ -1,4 +1,2 @@
-# hw1-2020
-Starter code for HW1 along with screenshots of the final results.
-
-Please clone this code rather thank forking.  Or better yet, feel free to download the code as a zip file.
+# homework1-2021
+The homework1 for SI 539 Web Design course Fall 2021.
